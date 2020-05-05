@@ -1,0 +1,7 @@
+theme: jekyll-theme-leap-day
+title: CoPlayer
+description: CoPlayer is a media player based on GStreamer and Qt5.
+show_downloads: "true"
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
